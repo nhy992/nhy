@@ -1,2 +1,2 @@
 # nhy
-a student who is not good in code
+a student who is interested in code
